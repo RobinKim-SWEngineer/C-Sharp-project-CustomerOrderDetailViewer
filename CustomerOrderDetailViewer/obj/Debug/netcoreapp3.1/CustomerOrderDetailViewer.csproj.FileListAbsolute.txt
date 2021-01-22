@@ -1,0 +1,39 @@
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.exe
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.deps.json
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.runtimeconfig.json
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.runtimeconfig.dev.json
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.pdb
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.AssemblyInfoInputs.cache
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.AssemblyInfo.cs
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.csproj.CoreCompileInputs.cache
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.csproj.CopyComplete
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.dll
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.pdb
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.genruntimeconfig.cache
+C:\Users\hgkim\source\repos\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.csprojAssemblyReference.cache
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.exe
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.deps.json
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.runtimeconfig.json
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.runtimeconfig.dev.json
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\CustomerOrderDetailViewer.pdb
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.AssemblyInfoInputs.cache
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.AssemblyInfo.cs
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.csproj.CoreCompileInputs.cache
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.csproj.CopyComplete
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.dll
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.pdb
+C:\HG KIM\GIthubPushes\CustomerOrderDetailViewer\CustomerOrderDetailViewer\obj\Debug\netcoreapp3.1\CustomerOrderDetailViewer.genruntimeconfig.cache
